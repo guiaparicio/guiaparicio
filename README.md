@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guiaparicio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guiaparicio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3589396) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/guiaparicio) 
 
 # 📊 GitHub Stats:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiaparicio&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=guiaparicio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiaparicio&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=guiaparicio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=208137&ring=208137&fire=208137&currStreakNum=fff&sideNums=208137&currStreakLabel=208137&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=guiaparicio&theme=github-compact)
